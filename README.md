@@ -1,20 +1,20 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm SAMRATO</h1>
+<h1 align="center">Hi 👋, I'm Willington Juma</h1>
 <h3 align="center">A passionate frontend developer /backend developer from Kenya</h3>
 
-- 🔭 I’m currently working on **Jumbo**
+- 🔭 I’m currently working on **Jumbo app Business **
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Trellimo**
 
-- 🤝 I’m looking for help with **Jumbo**
+- 🤝 I’m looking for help with **Jumbo app**
 
 - 👨‍💻 All of my projects are available at [willingtonjuma.netlify.app](willingtonjuma.netlify.app)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **willingtonejumamconya@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
