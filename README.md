@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Jumbo app**
 
-- 👨‍💻 All of my projects are available at [willingtonjuma.netlify.app](willingtonjuma.netlify.app)
+- 👨‍💻 All of my projects are available at https://github.com/samrato
 
 - 💬 Ask me about **Python**
 
