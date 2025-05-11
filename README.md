@@ -1,9 +1,10 @@
 
 
-
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Willington Juma</h1>
 <h3 align="center">A passionate frontend & backend developer from Kenya</h3>
+<p align="center">Backend lover | Creator | Crafting frameworks and coding the future</p>
+
 
 ```js
 const profile = {
