@@ -1,10 +1,13 @@
+
+
+
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Willington Juma</h1>
 <h3 align="center">A passionate frontend & backend developer from Kenya</h3>
 
 ```js
 const profile = {
-  name: 'Willlington Juma',
+  name: 'Willington Juma',
   title: 'Full-Stack Developer | Cloud Enthusiast | Problem Solver',
   skills: [
     'React', 'NextJS', 'Redux', 'Express',
@@ -25,7 +28,7 @@ const profile = {
   }
 };
 
-
+````
 
 
 <br>
