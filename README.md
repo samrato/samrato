@@ -1,11 +1,16 @@
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=2BF715FF&background=FFFFF900&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B;I'm+Willington+Juma;A+software+developer;A+Backend+lover+creator+crafting+frameworks+and+coding+the+future...)](https://git.io/typing-svg)
 # 💫 About Me:
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FFAB&background=1A1B27&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B;I'm+Willington+Juma;A+software+developer;A+Backend+lover+creator+crafting+frameworks+and+coding+the+future..." alt="Typing SVG" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Willington Juma</h1>
 <h3 align="center">A passionate frontend & backend developer from Kenya</h3>
 <p align="center">Backend lover | Creator | Crafting frameworks and coding the future</p>
+
 
 
 ```js
