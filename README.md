@@ -10,9 +10,9 @@ const profile = {
   name: 'Willington Juma',
   title: 'Full-Stack Developer | Cloud Enthusiast | Problem Solver',
   skills: [
-    'React', 'NextJS', 'Redux', 'Express',
+    'React', 'NextJS', 'Python', 'Express',
     'MySQL', 'MongoDB', 'Docker', 'AWS', 
-    'GraphQL', 'Git', 'Linux',
+    'RESTAPIs', 'Git', 'Linux','Nginix',
   ],
   hardWorker: true,
   quickLearner: true,
