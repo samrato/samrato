@@ -1,6 +1,8 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Willington juma</h1>
-<h3 align="center">A passionate frontend developer  & backend developer from Kenya</h3>
+<h1 align="center">Hi 👋, I'm Willington Juma</h1>
+<h3 align="center">A passionate frontend & backend developer from Kenya</h3>
+
+```js
 const profile = {
   name: 'Willlington Juma',
   title: 'Full-Stack Developer | Cloud Enthusiast | Problem Solver',
@@ -22,15 +24,6 @@ const profile = {
     );
   }
 };
-
-
-- 👨 All of my projects are available at [https://github.com/samrato](https://github.com/samrato)
-
-- 💬 Ask me about **Python**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
