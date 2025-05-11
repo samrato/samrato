@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B983FF&background=0F1035&center=true&vCenter=true&width=650&lines=✨+Hi+%F0%9F%91%8B%2C+I'm+Willington+Juma..+✨;🌟+A+passionate+frontend+%26+backend+developer+from+Kenya...+🌟;💫+Backend+lover.|+%+%7C+Creator|+..%7C+Crafting+frameworks+and+coding+the+future...+💫)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=B983FF&background=0F1035&center=true&vCenter=true&width=650&lines=✨+Hi+%F0%9F%91%8B%2C+I'm+Willington+Juma..+✨;🌟+🌟+A+passionate+frontend+%26+backend+developer+from+Kenya...+🌟;💫+Backend+lover.|+%7C+Creator|+..%7C+Crafting+frameworks+and+coding+the+future...+✨+💫)](https://git.io/typing-svg)
 
 
 
