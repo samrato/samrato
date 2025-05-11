@@ -2,23 +2,27 @@
 <h1 align="center">Hi 👋, I'm Willington juma</h1>
 <h3 align="center">A passionate frontend developer  & backend developer from Kenya</h3>
 const profile = {
-    name: 'Willlington Juma',
-    title: 'Full-Stack Developer | Cloud Enthusiast | Problem Solver',
-    skills: [
-        'React', 'NextJS', 'Redux', 'Express',
-        'MySQL', 'MongoDB', 'Docker', 'AWS', 
-        'GraphQL', 'Git', 'Linux', 
-    ],
-    hardWorker: true,
-    quickLearner: true,
-    problemSolver: true,
-    yearsOfExperience: 4, 
-    hireable: function() {
-        return (
-            this.hardWorker &&
-            this.problemSolver &&
-            this.skills.length >= 5 &&
-            this.yearsOfExperience >= 3
+  name: 'Willlington Juma',
+  title: 'Full-Stack Developer | Cloud Enthusiast | Problem Solver',
+  skills: [
+    'React', 'NextJS', 'Redux', 'Express',
+    'MySQL', 'MongoDB', 'Docker', 'AWS', 
+    'GraphQL', 'Git', 'Linux',
+  ],
+  hardWorker: true,
+  quickLearner: true,
+  problemSolver: true,
+  yearsOfExperience: 4,
+  hireable: function () {
+    return (
+      this.hardWorker &&
+      this.problemSolver &&
+      this.skills.length >= 5 &&
+      this.yearsOfExperience >= 3
+    );
+  }
+};
+
 
 - 👨 All of my projects are available at [https://github.com/samrato](https://github.com/samrato)
 
