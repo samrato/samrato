@@ -5,12 +5,18 @@
 ```js
 const profile = {
   name: 'Willington Juma',
-  title: 'Full-Stack Developer | Cloud Enthusiast | Problem Solver',
-  skills: [
-    'React', 'NextJS', 'Python', 'Express',
-    'MySQL', 'MongoDB', 'Docker', 'AWS', 
-    'RESTAPIs', 'Git', 'Linux','Nginix',
-  ],
+  title: 'Full-Stack Developer | Cloud Enthusiast | Problem Solver',CineCreatives,
+skills: [
+  'React', 'NextJS', 'Python', 'Express',
+  'MySQL', 'MongoDB', 'Docker', 'AWS', 
+  'RESTAPIs', 'Git', 'Linux', 'Nginx',
+  'TypeScript', 'Node.js', 'GraphQL', 'Redis',
+  'Kubernetes', 'CI/CD', 'Jenkins', 'Terraform',
+  'Postman', 'Swagger', 'Microservices', 'Webpack',
+  'HTML', 'CSS', 'Sass', 'TailwindCSS', 'Bootstrap',
+  'Serverless','Prometheus', 'Grafana'
+],
+
   hardWorker: true,
   quickLearner: true,
   problemSolver: true,
@@ -54,7 +60,7 @@ const profile = {
 
 ## ☁️ Cloud & DevOps:
 
-### 📚 Development & Tools
+### 📚Version Control & Planning
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
