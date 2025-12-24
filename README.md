@@ -55,7 +55,49 @@ const profile = {
 
 
 ##### ☁️ Cloud And DevOps
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<!-- Version Control & Planning -->
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+<!-- Build & Dependency -->
+![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+<!-- Containers & Registry -->
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/docker%20hub-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/amazon%20ecr-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<!-- CI / CD -->
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleci-%23343434.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Argo Workflows](https://img.shields.io/badge/argo%20workflows-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
+
+<!-- Kubernetes & GitOps -->
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/amazon%20eks-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<!-- Cloud & IaC -->
+![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+<!-- Networking -->
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS ALB](https://img.shields.io/badge/aws%20alb-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<!-- Security & Secrets -->
+![Vault](https://img.shields.io/badge/hashicorp%20vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white)
+![AWS Secrets Manager](https://img.shields.io/badge/aws%20secrets%20manager-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<!-- Monitoring & Quality -->
+![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/cloudwatch-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SonarQube](https://img.shields.io/badge/sonarqube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 
 #####   🛠️  Tools and technologies :
