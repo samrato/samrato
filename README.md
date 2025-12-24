@@ -14,13 +14,13 @@ const profile = {
   hardWorker: true,
   quickLearner: true,
   problemSolver: true,
-  yearsOfExperience: 4,
+  yearsOfExperience: 5,
   hireable: function () {
     return (
       this.hardWorker &&
       this.problemSolver &&
-      this.skills.length >= 5 &&
-      this.yearsOfExperience >= 3
+      this.skills.length >= 6 &&
+      this.yearsOfExperience >= 4
     );
   }
 };
