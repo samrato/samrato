@@ -6,7 +6,7 @@
 const profile = {
   name: 'Willington Juma',
   title: 'Full-Stack Developer | Cloud Enthusiast | Problem Solver',CineCreatives,
-skills: [
+  Skills: [
   'React', 'NextJS', 'Python', 'Express',
   'MySQL', 'MongoDB', 'Docker', 'AWS', 
   'RESTAPIs', 'Git', 'Linux', 'Nginx',
@@ -218,5 +218,9 @@ skills: [
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samrato&icon=0&color=0)](https://visitcount.itsvg.in)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=blink&descSize=70&descAlign=50&descAlignY=50&color=random"  />
+</div>
 
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
