@@ -11,7 +11,7 @@ const profile = {
   'MySQL', 'MongoDB', 'Docker', 'AWS', 
   'RESTAPIs', 'Git', 'Linux', 'Nginx',
   'TypeScript', 'Node.js', 'GraphQL', 'Redis',
-  'Kubernetes', 'CI/CD', 'Jenkins', 'Terraform',
+  'Kubernetes', 'CI/CD ', 'Jenkins', 'Terraform',
   'Postman', 'Swagger', 'Microservices', 'Webpack',
   'HTML', 'CSS', 'Sass', 'TailwindCSS', 'Bootstrap',
   'Serverless','Prometheus', 'Grafana'
